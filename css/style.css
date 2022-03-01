@@ -1,0 +1,58 @@
+* {
+    margin: 0%;
+    padding: 0;
+
+}
+body {
+    text-align: center;
+    border: 8px solid rgba(5, 5, 5, 0.5)
+}
+header {
+    background-image: url("../img/mask.png");
+height: 480px;px;
+background-repeat: no-repeat;
+}
+h1{
+    font-family: 'Bodoni Moda', serif;
+    font-family: 'Khula', sans-serif;
+    font-family: 'Roboto Serif', sans-serif;
+    font-family: 'Syne Mono', monospace;
+    font-size: 120px;
+    color: rgb(47, 89, 126);
+    padding-top: 200px;
+    text-shadow: 1px 1px #1b1a30, 10px 10px #1b1a30,1px 1px #1b1a30
+
+}
+
+
+.main-site {
+    margin-top: 50px;
+    font-family: 'Bodoni Moda', serif;
+font-family: 'Khula', sans-serif;
+font-family: 'Roboto Serif', sans-serif;
+font-family: 'Syne Mono', monospace;
+}
+.members {
+    padding: 70px;
+
+}
+
+h2 {
+    padding: 50px;
+}
+
+img {
+    img: 40%;
+    border-radius: 25%;
+}
+
+footer {
+    padding: 20px;
+}
+
+.main-site{
+    background: 
+      linear-gradient(
+         #fff, blue
+      );
+}
